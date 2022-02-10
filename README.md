@@ -5,7 +5,6 @@ In December 2021 I landed my first Software Dev job (Java Fullstack).
 
 In my freetime:
 - 🔭 I’m currently working on A.I. learning to play different videogames through various learning techniques.
-- 🌱 I’m currently learning several Machine Learning based topics.
 - 👯 I’m looking to collaborate on learning more about advanced reinforcement learning techniques and LSTM implementation. 
 - 🤔 I’m looking for help with getting started with Cheat Engine and how to use it in order to retrieve data from games in real time.
 - 📫 How to reach me: martin.stoller2@gmx.de
