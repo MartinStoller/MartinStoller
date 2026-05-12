@@ -5,3 +5,6 @@ I enjoy diving deep into modern data architectures and building all kinds of stu
 
 If you’re curious about how I think and build, check out my blog:
 👉 https://github.com/MartinStoller/blog
+
+If you´re interested in colaboration, feel free to contact me: martin.stoller@haeger-consulting.de
+
